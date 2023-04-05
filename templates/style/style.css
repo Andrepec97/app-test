@@ -1,0 +1,14 @@
+body {
+    background: #e8f0fe;
+}
+
+.custom-container {
+    background: #ffffff;
+    border: solid 2px #f0f0f0;
+    border-radius: 1rem;
+}
+
+.login-container {
+    max-width: 25vw !important;
+    max-height: 30vw;
+}
